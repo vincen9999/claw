@@ -1,0 +1,24 @@
+# ============ 私人数据（含微信消息抓取记录，绝不入库） ============
+*.json
+*.log
+*.cjs
+
+# ============ 个人目录 / 缓存 ============
+.workbuddy/
+
+# ============ 媒体与渲染产物（可重新生成，体积大） ============
+_wx_article_imgs/
+docx_media/
+*.png
+review_out/scan1/
+review_out/scan2/
+
+# ============ 独立子项目（各有自己的生命周期） ============
+qr-form-dashboard/
+workbuddy-project/
+
+# ============ 系统/编辑器 ============
+Thumbs.db
+ehthumbs.db
+.DS_Store
+desktop.ini
