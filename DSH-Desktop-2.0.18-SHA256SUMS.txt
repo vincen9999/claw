@@ -1,0 +1,24 @@
+a3aad3ac11ba3cd6cbf295809a32fff907152332800a21a0910034ba95379f08  DSH Desktop-2.0.18-universal.dmg
+54368551566fae5761a43ef4b8cbc6271fb0f6876190dc9e5efcb71f48e820c1  DSH-Desktop-2.0.18-amd64.deb
+1e86d03052923fa64a607af894ed5f872411771c0513d1687e17499006fe77e4  DSH-Desktop-2.0.18-arm64.AppImage
+904eeca8678c7bfc73ed82c3a6a2dd66082d18ec94b2960c6cadbffe95e6f238  DSH-Desktop-2.0.18-arm64.deb
+e6899ff15ba7f06a6d4133d1d9b12acdb9015b61a2f6c00a03794f0b790ae95d  DSH-Desktop-2.0.18-linux-arm64.tar.gz
+7191a580134cb83387c0c0136a39ab29138d5958df8ba358d2c07f28bcebd785  DSH-Desktop-2.0.18-linux-x64.tar.gz
+d1edf6ef53156542e06836e2a478dc3508599a3290c5402eb32f771e7bb09f39  DSH-Desktop-2.0.18-x64-Setup.exe
+e4f78d25496ef09905ace3817c0c0ce6343995b4ecae5369f2f28e57423d2774  DSH-Desktop-2.0.18-x86_64.AppImage
+e1d0e3e77a710068cd49d2afe4d355bd1a020bc2e4d86122145be20e4026db3f  DSH-Desktop-Beta-2.0.18-beta.1-amd64.deb
+e287d3f541aedbb408cd6a3c20cd7b9b4720f488bf3d4fb27ba196c5d367df52  DSH-Desktop-Beta-2.0.18-beta.1-arm64.AppImage
+f4fed192fc8d0ef17d9289a8f47f16248aa973cb51b41d59f99d9c5795beed63  DSH-Desktop-Beta-2.0.18-beta.1-arm64.deb
+8f26fa8865e24913dc99f6b5a8b75462a2b257cb146735903ca4f36c24ffad52  DSH-Desktop-Beta-2.0.18-beta.1-linux-arm64.tar.gz
+88dac0fc4cb71a0c55f83ebc40e2bad4f9636737f58e0bf92432f5b7bf18e7b3  DSH-Desktop-Beta-2.0.18-beta.1-linux-x64.tar.gz
+97a8cffe1ef3468cf8cc9859bb37061cf79ea63f42d03df078d0d243405e21f8  DSH-Desktop-Beta-2.0.18-beta.1-universal.dmg
+b26425d65e42e1e6f790ddc3839d507e540acf301beee43cdcee78d161e47bf7  DSH-Desktop-Beta-2.0.18-beta.1-x64-Setup.exe
+f8ab4ad9e0e1d9bd64c8d3ecc9f6269ad957010a35b66a83c3705a2813e9439d  DSH-Desktop-Beta-2.0.18-beta.1-x86_64.AppImage
+ce9a3e7f80ed150232a59ff23c7de3ba945ec2638eba9a4c131c9b93f281e41b  DSH-NEXT-2.0.19-next-amd64.deb
+412652a8d384e05a5c391f9a90ded5bc5b6f3e63546670c0e281be996621b6f9  DSH-NEXT-2.0.19-next-arm64.AppImage
+7bf8431d63f0d56a04d38c251984157af519724d3cb723c96e95eb5a26ce796a  DSH-NEXT-2.0.19-next-arm64.deb
+8fb42d77eddcdbbbff66a83f21e7bb711d4cfd82db4edfb6fa7ff392fc5ed288  DSH-NEXT-2.0.19-next-linux-arm64.tar.gz
+bed35bc4d8f6d5936ff47b2640e38591821a9cb1b61a30d3618e3af2c18c1d6d  DSH-NEXT-2.0.19-next-linux-x64.tar.gz
+0d25ee54b655068e68542baa59bdf755333fd6b7f1f39ef025bbe46c758536ed  DSH-NEXT-2.0.19-next-universal.dmg
+5dcccd27f60644da083ece7dac9f8ed6bfa77fc507adffebf8c3e61c17abb52d  DSH-NEXT-2.0.19-next-x64-Setup.exe
+c91353817ede434ddca67307b72bb7f0a579b8eac733ff8e9ed2c4c7d1e55972  DSH-NEXT-2.0.19-next-x86_64.AppImage

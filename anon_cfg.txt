@@ -1,0 +1,7 @@
+﻿everyoneincludesanonymous set to 1
+NullSessionShares now = [草料二维码数据]
+已授予 ANONYMOUS LOGON 完全控制
+Guest 已启用
+重启 FunctionDiscoveryProviderHost -> 
+重启 FunctionDiscoveryResourcePublication -> 
+LanmanServer 已重启

@@ -1,0 +1,10 @@
+﻿icacls 进程数: 0
+=== 文件夹 NTFS ACE ===
+Found Everyone -> Modify, Synchronize / Inherited=False
+=== 子文件抽样（是否都含 Everyone）===
+_last_run.json -> Everyone=True
+文件目录自动生成(含文件链接).xls -> Everyone=True
+UPS电源日巡检_L11430_20260102082045.pdf -> Everyone=True
+UPS电源日巡检_L11516_20260103082013.pdf -> Everyone=True
+UPS电源日巡检_L11693_20260104132639.pdf -> Everyone=True
+=== 本机自访问 localhost = True
