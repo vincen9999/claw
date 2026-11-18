@@ -1,3 +1,0 @@
-﻿Test localhost = True
-Test 计算机名 = True
-本机局域网IP = 192.168.71.19

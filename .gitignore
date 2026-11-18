@@ -23,3 +23,13 @@ Thumbs.db
 ehthumbs.db
 .DS_Store
 desktop.ini
+
+# ============ 内网/共享排障记录（含内网 IP 与权限配置，绝不入库） ============
+acl_status.txt
+anon_cfg.txt
+anon_check.txt
+fd_svc.txt
+final_verify.txt
+reach_test.txt
+share_diag.txt
+share_diag2.txt

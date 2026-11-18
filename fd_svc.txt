@@ -1,4 +1,0 @@
-﻿fdPHost 已在运行
-FDResPub 已在运行
-SSDPSRV 已在运行
-启动 upnphost -> Running

@@ -1,6 +1,0 @@
-﻿=== 当前 NullSessionShares ===
-NullSessionShares = []
-=== 当前 everyoneincludesanonymous ===
-0
-=== Guest 账户状态 ===
-Guest Enabled = True  Name=Guest
